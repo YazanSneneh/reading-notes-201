@@ -9,4 +9,5 @@
    * add it to the table of content.
 
    
-   1. [class-1](reading-note-1)
+   1. [Prework - Read: 01](reading-note-1)
+   2. [Class01 - Read: 01](reading-note-1)
