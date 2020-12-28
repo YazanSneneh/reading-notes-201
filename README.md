@@ -10,4 +10,4 @@
 
    
    1. [Prework - Read: 01](reading-note-1)
-   2. [Class01 - Read: 01](reading-note-1)
+   2. [Class02 - Read: 02](class-02.md)
