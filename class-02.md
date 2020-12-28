@@ -46,12 +46,11 @@
 
 #### Author Details
      * `<address>` -  use: to contain contact details for the author of the page, like below.
-        ``` 
-        <address> 
+        ```<address> 
             <p><a href="mailto:homer@example.org"> homer@example.org</a></p>
             <p>742 Evergreen Terrace, Springfield.</p>
-        </address>
-        ```
+        </address>```
+
 # Understanding CSS: Thinking Inside the Box
    * The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element.
    * CSS Properties Affect How Elements Are Displayed.
@@ -61,25 +60,49 @@
       * **Block level elements** - elements take full width of the parent box and high of the content, example of block elements are `<div>, <header>, <h1>, <p>`.
       * **Inline level elements** - elements take the height and with of the content, example of inline elements are `<img>, <a>` tags.
 
-## CSS Selectors
-      * there are many ways css allow me to target elements.
-      * the list of these elements are : 
-        
-        Selector | Meaning | Example
-        -----------------------------
-        universal selector | apply to all elements on the page | `*{ css rules...}`
-        -----------------------------
-        type selector | match element name | `h1{css rules...}`
-        -----------------------------
-        class selector | any element match target class |` .link{css rules...}`
-        -----------------------------
-        ID Selector | match element with ID | `#id{css rules...}`
-        -----------------------------
-        child | match child element that directly inside parent | `header > h1 {css rules...}`
-        -----------------------------
-        descendant | all elements inside matched element | `main section{css rules...}`
-        -----------------------------
-        Adjacent Sibling | match element sibling next to element | `h1+p{css}`
-        -----------------------------
-        General Sibling | Matches an element that is a sibling of another, although it does not have to be the directly preceding element | `h1~p {}`
+### CSS Selectors
+   * there are many ways css allow me to target elements.
+   * the list of these elements are : 
+      * **universal selector ** - apply to all elements on the page - `*{ css rules...}`
+      * **type selector** - match element name - `h1{css rules...}`
+      * **class selector** - any element match target class - ` .link{css rules...}`
+      * **ID Selector ** - match element with ID - `#id{css rules...}`
+      * **child** - match child element that directly inside parent - `header > h1 {css rules...}`
+      * **descendant** - all elements inside matched element - `main section{css rules...}`
+      * **Adjacent Sibling** - match element sibling next to element - `h1+p{css}`
+      * **General Sibling** - Matches an element that is a sibling of another, although it does not have to be the directly preceding element - `h1~p {}`
+
+#### Inheritance 
+   When we apply some of css properties to the parent, all elements inside that element will inherit the property.
+
+# Basic JavaScript Instructions
+   * **Script** : A script is a series of instructions that a computer can follow one-by-one. 
+   * Each individual instruction or step is known as a statement.
+   * **Comments** You should write comments to explain what your code does.
+       * Single line comments ` // this is single line comment`.
+       * multi line comment ` /* this is how i write multi line comment*/`.
+    * **Variables** - variables are like bags i use them to store data so i can use later, and give it a name so i know where i hide my data.
+       * declare variable : `var varName = value;`
+       * we call them variables because the values can be changable.
+       * **RULES FOR NAMING VARIABLES** - there are 6 rules.
+        1. camelCase naming - each first letter in words should be capital `var userName`.
+        2. names contain numbers, letters, $ sign and _ but not - .
+        3. Keywords should not be used.
+        4. variable name should not start with numbers.
+        5. variables are case sensetive.
+        6. name should start with letter, dollar sign or _.
+#### DATA TYPES
+   1. NUMERIC DATA TYPE - numbers ` var num = 5  var num = 5.2`
+   2. STRING DATA TYPE - text and writtin between single or dbl quotation - `var name ='Yazan'`
+   3. BOOLEAN DATA TYPE - bool either `var bool =true` or `var bool = false` values.
+
+##### ARRAYS
+  * arrays are special type of data types and used to store list of items so save ourselves the naming.
+  * **Create array**
+    * var arrName = [val1, val2, val3] example:
+    * `var colors = ['red','green','blue']`
+  * each item in array has an index reference to the location of item in memory.
+  * index start from 0 and reference 0 also point to the next item reference.
+  * to access the first item in the array : `alert(colors[0])`.
+  * to change it `colors[0] = 'yellow'`ment that is a sibling of another, although it does not have to be the directly preceding element | `h1~p {}`
         -----------------------------
