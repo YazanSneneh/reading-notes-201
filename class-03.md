@@ -82,13 +82,14 @@
     * it take one expression.
     * check expression with conditions provided.
     * syntax:
-       ``` switch(expression){
+       ```switch(expression){
             case condition:
                script;
                break; // to break out of statement
             default: // i provide it default case, it's basically the else in if
                 script
-       } ```
+       }```
+
 ### COERCION
    * when type math operation javascript expect 2 numbers.
    * javascript will dynamically convert non expected number to number.

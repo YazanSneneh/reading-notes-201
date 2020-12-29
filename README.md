@@ -10,5 +10,5 @@
 
    
    1. [Prework - Read: 01](prework.md)
-   2. [Class02 - Read: semantic html, css and js basics revision](class-03.md)
-   3. [Class03 - Read: Lists, boxes, arrays, coerison](class-02.md)
+   2. [Class02 - Read: semantic html, css and js basics revision](class-02.md)
+   3. [Class03 - Read: Lists, boxes, arrays, coerison](class-03.md)
