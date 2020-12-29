@@ -98,11 +98,40 @@
 
 ##### ARRAYS
   * arrays are special type of data types and used to store list of items so save ourselves the naming.
+  * items in array should be related to each others.
+  * array helpful when we dont know exactly how many item we gonna need.
   * **Create array**
     * var arrName = [val1, val2, val3] example:
     * `var colors = ['red','green','blue']`
   * each item in array has an index reference to the location of item in memory.
-  * index start from 0 and reference 0 also point to the next item reference.
+  * index start from 0, for example `'red` index is 0
   * to access the first item in the array : `alert(colors[0])`.
-  * to change it `colors[0] = 'yellow'`ment that is a sibling of another, although it does not have to be the directly preceding element | `h1~p {}`
-        -----------------------------
+  * to update item on specefic index `colors[0] = 'yellow'`.
+  * use the value of item, in example of print blue : `alert(color[2])`
+
+### conditionals and loops
+  * the normal flow of the program is to read scripts from top to bottom and left to right to the last statement.
+  * conditional statements change the flow of the program.
+    * conditionals provide a piece of code might run in the flow or not based on condition.
+    * example of conditionals is if statement and switch statements.
+
+####  switch statement.
+    * it's conditional statement, i provide it several conditions.
+    * if statement might be complex, switch make it easier to interact with.
+    * it take one expression.
+    * check expression with conditions provided.
+    * syntax:
+       ``` switch(expression){
+            case condition:
+               script;
+               break; // to break out of statement
+            default: // i provide it default case, it's basically the else in if
+                script
+       } ```
+#### loops 
+  * loops also effect the normal flow of the program.
+  * loops allow piece of code run many times until condition is true.
+  * example of loops are **for loop** and **while loop**
+  * the different between for loop and while loop is
+    * for loops will keep running to the end, for example count from 1 to 10
+    * while loop: in while loop we don't know how many times will the program run so it will keep running until the condition is true, for example user password input is incorrect, until user input correct value.
