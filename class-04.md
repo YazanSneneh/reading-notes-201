@@ -60,7 +60,7 @@ of the page and can be used to create multi-column layouts. (Floated items requi
 #### WHAT IS A FUNCTION?
 Functions let you group a series of statements together to perform a
 specific task. If different parts of a script repeat the same task, you can
-reuse the function (rather than repeating the same set of st atements).
+reuse the function (rather than repeating    the same set of st atements).
 #### How To Declare a functions:
 To create a function you give it a name and then write the statement needed to achieve its task
 inside the curly braces this is known as function declaration.
