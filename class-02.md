@@ -63,7 +63,7 @@
 ### CSS Selectors
    * there are many ways css allow me to target elements.
    * the list of these elements are : 
-      * **universal selector ** - apply to all elements on the page - `*{ css rules...}`
+      * **universal selector** - apply to all elements on the page - `*{ css rules...}`
       * **type selector** - match element name - `h1{css rules...}`
       * **class selector** - any element match target class - ` .link{css rules...}`
       * **ID Selector ** - match element with ID - `#id{css rules...}`

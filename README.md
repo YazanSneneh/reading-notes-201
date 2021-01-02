@@ -14,3 +14,4 @@
    3. [Class03 - Read: Lists, boxes, arrays, coerison](class-03.md)
    4. [Class04 - Read: Lists, boxes, arrays, coerison](class-04.md)
    5. [Read: 05 - HTML Images; CSS Color & Text](classs-05.md)
+   6. [Readings : Problem Domain, Objects, and the DOM](classs-06.md)
