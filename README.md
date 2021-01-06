@@ -17,3 +17,4 @@
    6. [Class06 - Readings : Problem Domain, Objects, and the DOM](class-06.md)
    7. [Class07 - Read: 07 - HTML Tables; JS Constructor Functions](class-07.md)
    8. [Class08 - Readings : CSS Layout](class-08.md)
+   9. [class09 - Readings : Forms and JS Events](class-09.md)
