@@ -15,7 +15,7 @@
 #### javascript engine
   it's the host that accept my js code and run it, it contain parser, syntax tree.
 
-  ![inside the maze v8 engine ](/images/javascript%20engine.png)
+  ![inside the maze v8 engine ](media/javascript%20engine.png)
 
    1. parser : parse the syntax of my js code and check for syntax error.
       * if there is error will send error message.
