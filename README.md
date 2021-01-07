@@ -16,5 +16,6 @@
    5. [Class05 - HTML Images, CSS Color & Text](class-05.md)
    6. [Class06 - Readings : Problem Domain, Objects, and the DOM](class-06.md)
    7. [Class07 - Read: 07 - HTML Tables; JS Constructor Functions](class-07.md)
-   8. [Class08 - Readings : CSS Layout](class-08.md)
-   9. [class09 - Readings : Forms and JS Events](class-09.md)
+   8. [Class08 - Read : CSS Layout](class-08.md)
+   9. [class09 - Read : Forms and JS Events](class-09.md)
+   10. [class10- read : 10 - JS Debugging](class-10.md)
