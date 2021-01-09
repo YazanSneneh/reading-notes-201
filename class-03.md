@@ -105,3 +105,10 @@
   * falsy values treated as false while truthy values treated as true.
   * falsy values are : 0, '', false, NaN, variable with no value, undefined.
   * truthy values are :number not 0, not empty string, var with value.
+
+## STRICT MODE:
+- it's a javascript mode  when i use it, i will apply striction on langauge.
+that means it will modify the default behaviour of the javascript language.
+- for example i need to define a variable to start using it, in javascript it allow me to use variable name and store data inside it
+these mistakes might cause me problem in the future, so we apply strict mode to prevent me from doing this.
+* to use it : 'use strict'

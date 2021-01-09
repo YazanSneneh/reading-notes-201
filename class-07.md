@@ -53,7 +53,7 @@
 ```
 # Domain Modeling
   * Domain modeling is the process of creating a conceptual model for a specific problem.
-  * a domain model that's articulated well can verify and validate your understanding of that problem.
+  * a domain model is modelling an entity and it's property and methods, it's encapsulating objects and this is the basic form of OOP.
 
 Here's some tips to follow when building your own domain models.
 
@@ -119,3 +119,14 @@ Here's some tips to follow when building your own domain models.
      Model uses objects to create a representation of the current page. It creates a new object for each element (and each individual section of text) within the page.
   * **GLOBAL JAVASCRIPT OBJECTS** :
     The global JavaScript objects represent things that the JavaScript language needs to create a model of. For example, there is an object that deals only with dates and times.
+
+### prototype object
+  * when we run our object it will be allocated inside the memory.
+  * when we have many objects inside our code it will consume the memory.
+  * properties inside the object sometimes execute some code, and it might be complex.
+  * this process will consume the memory and might crash the browser.
+  * to solve this problem we create methods of objects seperatley then link it to the constructor using the prototype.
+  * example ``` ConstructorName.prototype.method(){
+      this.property   // do something
+     } 
+     and use it like so: object.method()```
