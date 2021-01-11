@@ -20,3 +20,4 @@
    9. [class09 - Read : Forms and JS Events](class-09.md)
    10. [class10- read : 10 - JS Debugging](class-10.md)
    11. [class11- read : Assorted Topics](class-11.md)
+   12. [class12 - read:  Docs for the HTML <canvas> Element & Chart.js](class12.md)

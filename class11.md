@@ -64,4 +64,3 @@ there are 7 places on each page of the website where i can add keywords to make 
    4. Compare
    5. Refine
    6. Map 
-### Off-Page Techniques
