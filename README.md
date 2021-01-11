@@ -21,3 +21,4 @@
    10. [class10- read : 10 - JS Debugging](class-10.md)
    11. [class11- read : Assorted Topics](class11.md)
    12. [class12 - read: Docs for the HTML canvas Element & Chart.js](class12.md)
+   13. [LocalStorage](class13.md)
