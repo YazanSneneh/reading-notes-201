@@ -99,4 +99,4 @@ transform: rotate() scale() translate() skew()
   ```
 
 ##### shorthand
- transition : background 1s linear 
+ transition : background 1s linear.
