@@ -36,5 +36,5 @@
   15. [Read: 14b - What Google Learned About Teams](read-14b.md).
 
 ## Code 301 - Intermediate Software Development.
-   
+   1. [read01 - SMACSS and Responsive Web Design](301/class-01.md)
 ## Code 401 - Advanced Software Development.
