@@ -8,7 +8,8 @@
    * summarize it.
    * add it to the table of content.
 
-## Code 102 - Intro to Software Development. 
+## Code 102 - Intro to Software Development.
+
   | Class Name   | Read Topic                                                           |
   | ------------ | -------------------------------------------------------------------- |
   | class01-read | [Markdown](reading-notes/lab1-read.md)                               |
@@ -22,6 +23,7 @@
   | class09-read | [Operators & Loops](reading-notes/lab8-read.md)                      |
 
 ## Code 201 - Foundations of Software Development.
+
   | Class Name   | Read Topic                                                                 |
   | ------------ | -------------------------------------------------------------------------- |
   | class01-read | [Prework - Read: 01](prework.md)                                           |
@@ -42,6 +44,7 @@
 
 
 ## Code 301 - Intermediate Software Development.
+
   | Class Name   | Read Topic                                                                  |
   | ------------ | --------------------------------------------------------------------------- |
   | class01-read | [read: 01 - SMACSS and Responsive Web Design](301/class-01.md)              |
