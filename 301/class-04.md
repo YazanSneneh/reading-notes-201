@@ -5,7 +5,6 @@
  * **NOTE : One of the most interesting features is that once you’ve learned the syntax, you can actually use this tool in (almost) all programming languages **.
  * **Basic topics:**
     * Anchors — ^ and $ : 
-    * 
     | Anchors      | explination                                       |
     | ------------ | ------------------------------------------------- |
     | ^The         | matches any string that starts with The           |
@@ -23,8 +22,8 @@
         | abc{2}      | matches a string that has ab followed by 2 c            |
         | abc{2,}     | matches a string that has ab followed by 2 or more c    |
         | abc{2,5}    | matches a string that has ab followed by 2 up to 5 c    |
+        
     * Character classes — \d \w \s and .
-    
     | Character classe | explination                                                       |
     | ---------------- | ----------------------------------------------------------------- |
     | \d               | matches a single character that is a digit                        |
