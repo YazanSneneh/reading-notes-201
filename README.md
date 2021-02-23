@@ -54,7 +54,5 @@
   | class06-read | [Read: 06 - Node, Express, and APIs](301/class-06.md)                      |
   | class07-read | [ Read: 07 - APIs continued](301/class-07.md)                              |
   | class08-read | [Read: 08 - Node, Express, and APIs](301/class-08.md)                      |
-  | class09-read | [coming soon](301/class-09.md)                                             |
-  | class10-read | [coming soon](301/class-10.md)                                             |
-  | class11-read | [coming soon](301/class-11.md)                                             |
+  
 ## Code 401 - Advanced Software Development.
