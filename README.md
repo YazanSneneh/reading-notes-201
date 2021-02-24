@@ -45,15 +45,17 @@
 
 ## Code 301 - Intermediate Software Development.
 
-  | Class Name   | Read Topic                                                                 |
-  | ------------ | -------------------------------------------------------------------------- |
-  | class01-read | [read: 01 - SMACSS and Responsive Web Design](301/class-01.md)             |
-  | class02-read | [Read: 02 - jQuery, Events, and The DOM](301/class-02.md))                 |
-  | class03-read | [Read: 03 - Readings: MUSTACHE and FLEXBOX](301/class-03.md)               |
-  | class04-read | [Read: 04 -Responsive Web Design and Regular Expressions](301/class-04.md) |  | class05-read | [Read: 04 - Readings: HEROKU](301/class-05.md) |
-  | class06-read | [Read: 06 - Node, Express, and APIs](301/class-06.md)                      |
-  | class07-read | [ Read: 07 - APIs continued](301/class-07.md)                              |
-  | class08-read | [Read: 08 - SQL databases](301/class-08.md)                                |
-  | class09-read | [Read: 08 - Refactoring, Functional Programming](301/class-09.md)          |
+  | Class Name    | Read Topic                                                                 |
+  | ------------- | -------------------------------------------------------------------------- |
+  | class01-read  | [read: 01 - SMACSS and Responsive Web Design](301/class-01.md)             |
+  | class02-read  | [Read: 02 - jQuery, Events, and The DOM](301/class-02.md))                 |
+  | class03-read  | [Read: 03 - Readings: MUSTACHE and FLEXBOX](301/class-03.md)               |
+  | class04-read  | [Read: 04 -Responsive Web Design and Regular Expressions](301/class-04.md) |
+  | class05-read  | [Read: 04 - Readings: HEROKU](301/class-05.md)                             |
+  | class06-read  | [Read: 06 - Node, Express, and APIs](301/class-06.md)                      |
+  | class07-read  | [ Read: 07 - APIs continued](301/class-07.md)                              |
+  | class08-read  | [Read: 08 - SQL databases](301/class-08.md)                                |
+  | class09-read  | [Read: 09 - Refactoring, Functional Programming](301/class-09.md)          |
+  | class010-read | [Read: 10 - The Call Stack and Debugging](301/class-10.md)                 |
   
 ## Code 401 - Advanced Software Development.
