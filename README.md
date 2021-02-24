@@ -53,6 +53,7 @@
   | class04-read | [Read: 04 -Responsive Web Design and Regular Expressions](301/class-04.md) |  | class05-read | [Read: 04 - Readings: HEROKU](301/class-05.md) |
   | class06-read | [Read: 06 - Node, Express, and APIs](301/class-06.md)                      |
   | class07-read | [ Read: 07 - APIs continued](301/class-07.md)                              |
-  | class08-read | [Read: 08 - Node, Express, and APIs](301/class-08.md)                      |
+  | class08-read | [Read: 08 - SQL databases](301/class-08.md)                                |
+  | class09-read | [Read: 08 - Refactoring, Functional Programming](301/class-09.md)          |
   
 ## Code 401 - Advanced Software Development.
