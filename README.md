@@ -57,6 +57,6 @@
   | class08-read  | [Read: 08 - SQL databases](301/class-08.md)                                |
   | class09-read  | [Read: 09 - Refactoring, Functional Programming](301/class-09.md)          |
   | class010-read | [Read: 10 - The Call Stack and Debugging](301/class-10.md)                 |
-  | class011-read | [Read: 10 - Readings: EJS](301/class-11.md)                                |
+  | class011-read | [Read: 11 & read 12 - Readings: EJS](301/class-11.md)                      |
 
 ## Code 401 - Advanced Software Development.
