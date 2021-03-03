@@ -60,5 +60,6 @@
   | class011-read | [Read: 11 & read 12 - Readings: EJS](301/class-11.md)                      |
   | class013-read | [Read: 13 - Readings: SENDING FORM DATA](301/class-13.md)                  |
   | class014-read | [Read: 14a - DB Normalization](301/class-14.md)                            |
+  | class015-read | [Read: 15 - Diversity & Inclusion in the Tech Industry](301/class-15.md)   |
  
 ## Code 401 - Advanced Software Development.
