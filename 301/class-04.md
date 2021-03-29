@@ -1,5 +1,5 @@
 # Regular expressions (regex or regexp)
- * extract information from any text by searching for one or more matches of a specific search pattern. 
+ * Extract information from any text by searching for one or more matches of a specific search pattern.
  * **Fields of application** : from validation, parsing/replacing strings, passing through translating data to other formats and web scraping, searching for items etc...
 
  * **NOTE : One of the most interesting features is that once you’ve learned the syntax, you can actually use this tool in (almost) all programming languages **.
@@ -14,14 +14,14 @@
     | class04-read |                                                   |
 
     * Quantifiers — * + ? and {}:
-        | Quantifiers | explination                                             |
-        | ----------- | ------------------------------------------------------- |
-        | abc*        | matches a string that has ab followed by zero or more c |
-        | abc+        | matches a string that has ab followed by one or more c  |
-        | abc?        | matches a string that has ab followed by zero or one c  |
-        | abc{2}      | matches a string that has ab followed by 2 c            |
-        | abc{2,}     | matches a string that has ab followed by 2 or more c    |
-        | abc{2,5}    | matches a string that has ab followed by 2 up to 5 c    |
+    | Quantifiers | explination                                             |
+    | ----------- | ------------------------------------------------------- |
+    | abc*        | matches a string that has ab followed by zero or more c |
+    | abc+        | matches a string that has ab followed by one or more c  |
+    | abc?        | matches a string that has ab followed by zero or one c  |
+    | abc{2}      | matches a string that has ab followed by 2 c            |
+    | abc{2,}     | matches a string that has ab followed by 2 or more c    |
+    | abc{2,5}    | matches a string that has ab followed by 2 up to 5 c    |
         
     * Character classes — \d \w \s and .
     | Character classe | explination                                                       |

@@ -27,7 +27,6 @@ from TABLENAME
 SEECT *
 from TABLE
 ```
-
 #### Queries with constraints
  * sometimes we need to make a query on tables have thousands of rows.
  * and it's pain in the ass to get all rows and search on what we want.
