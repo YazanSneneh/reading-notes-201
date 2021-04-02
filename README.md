@@ -1,6 +1,7 @@
 # Reading Notes
-*This website including reading notes classes for software development courses 201, 301 and 401.*
-
+* *This website including reading notes classes for software development courses 102, 201, 301 and 401.*
+* It also contain reads on general topics in the field.
+* **Important Note:** the 102 part is included but not in linked: if you want to visit these reads go to following link, go to [ 102 reads](https://github.com/YazanSneneh/reading-notes).
 **For example:**
  When I read class note I will summarize what the read all about then add it to the table of content in this page.
    * read note.
@@ -59,6 +60,12 @@
   | class015-read | [Read: 15 - Diversity & Inclusion in the Tech Industry](301/class-15.md)                            |
  
 ## Code 401 - Advanced Software Development.
+
+| Class Name   | Read Topic    |
+| ------------ | ------------- |
+| class01-read | [ Read: 01 - Java Basics to control flow statements](401/class-01.md) |
+
+## Code Other Reads - Topics in Software Development.
 | Class Name   | Read Topic    |
 | ------------ | ------------- |
 | class01-read | [ Read: 01]() |
