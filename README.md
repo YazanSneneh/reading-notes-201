@@ -61,11 +61,11 @@
  
 ## Code 401 - Advanced Software Development.
 
-| Class Name   | Read Topic    |
-| ------------ | ------------- |
+| Class Name   | Read Topic                                                            |
+| ------------ | --------------------------------------------------------------------- |
 | class01-read | [ Read: 01 - Java Basics to control flow statements](401/class-01.md) |
 
 ## Code Other Reads - Topics in Software Development.
-| Class Name   | Read Topic    |
-| ------------ | ------------- |
-| class01-read | [ Read: 01]() |
+| Class Name   | Read Topic                                              |
+| ------------ | ------------------------------------------------------- |
+| resources | [ resources list](other/file-system.md) |
