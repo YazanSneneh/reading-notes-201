@@ -42,9 +42,9 @@
   | class15-read | [Read: 14b - What Google Learned About Teams](read-14b.md).                |
 
 ## Code 301 - Intermediate Software Development.
-  | Class Name    | Read Topic                                                                                          |
-  | ------------- | --------------------------------------------------------------------------------------------------- |
-  | class01-read  | [read: 01 - SMACSS and Responsive Web Design](301/class-01.md)                                      |
+  | Class Name    | Read Topic                |
+  | ------------- | ---------------------------------------------------- |
+  | class01-read | [read: 01 - SMACSS and Responsive Web Design](301/class-01.md)  |
   | class02-read  | [Read: 02 - Arrow functions, pass value & reference, jQuery, Events, and The DOM](301/class-02.md)) |
   | class03-read  | [Read: 03 - Readings: MUSTACHE, FLEXBOX and Sorting](301/class-03.md)                               |
   | class04-read  | [Read: 04 -Responsive Web Design and Regular Expressions](301/class-04.md)                          |
@@ -64,8 +64,9 @@
 | Class Name   | Read Topic                                                            |
 | ------------ | --------------------------------------------------------------------- |
 | class01-read | [ Read: 01 - Java Basics to control flow statements](401/class-01.md) |
+| class02-read | [ Read: 02 - Arrays, Loops, Imports](401/class-02.md) |
 
 ## Code Other Reads - Topics in Software Development.
 | Class Name   | Read Topic                                              |
 | ------------ | ------------------------------------------------------- |
-| resources | [ resources list](other/file-system.md) |
+| resources | [ resources list](other/file-system.md)                    |
