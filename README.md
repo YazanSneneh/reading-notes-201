@@ -66,6 +66,7 @@
 | class01-read | [ Read: 01 - Java Basics to control flow statements](401/class-01.md) |
 | class02-read | [ Read: 02 - Arrays, Loops, Imports](401/class-02.md)                 |
 | class03-read | [ Read: 03 - Maps, primitives, File I/O](401/class-03.md)             |
+| class04-read | [  Read: 04 - OOP](401/class-04.md)             |
 
 ## Code Other Reads - Topics in Software Development.
 | Class Name   | Read Topic                                              |
