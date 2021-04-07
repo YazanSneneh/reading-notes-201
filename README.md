@@ -67,6 +67,7 @@
 | class02-read | [ Read: 02 - Arrays, Loops, Imports](401/class-02.md)                 |
 | class03-read | [ Read: 03 - Maps, primitives, File I/O](401/class-03.md)             |
 | class04-read | [  Read: 04 - OOP](401/class-04.md)             |
+| class05-read | [ Read: 05 - Linked Lists ](401/class-05.md)             |
 
 ## Code Other Reads - Topics in Software Development.
 | Class Name   | Read Topic                                              |
