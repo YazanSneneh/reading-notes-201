@@ -43,7 +43,7 @@
 
 ## Code 301 - Intermediate Software Development.
   | Class Name    | Read Topic                |
-  | ------------- | ---------------------------------------------------- |
+  | ------------- | ----------------------------------------------------|
   | class01-read | [read: 01 - SMACSS and Responsive Web Design](301/class-01.md)  |
   | class02-read  | [Read: 02 - Arrow functions, pass value & reference, jQuery, Events, and The DOM](301/class-02.md)) |
   | class03-read  | [Read: 03 - Readings: MUSTACHE, FLEXBOX and Sorting](301/class-03.md)                               |
@@ -68,7 +68,7 @@
 | class03-read | [ Read: 03 - Maps, primitives, File I/O](401/class-03.md)             |
 | class04-read | [  Read: 04 - OOP](401/class-04.md)             |
 | class05-read | [ Read: 05 - Linked Lists ](401/class-05.md)             |
-
+| class06-read | [ Read: 06 - Inheritance and Interfaces ](401/class-06.md)             |
 ## Code Other Reads - Topics in Software Development.
 | Class Name   | Read Topic                                              |
 | ------------ | ------------------------------------------------------- |

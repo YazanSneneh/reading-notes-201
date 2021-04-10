@@ -2,7 +2,7 @@
 
 ## Lesson: Object-Oriented Programming Concepts
  * object oriented programming and the real world.
-### what is objectObject
+### what is Object
 * objects are everywhere in real world example, from tinest **thing** to the largest thing I could possibly imagine.
   * for example: ad door is an object that has weight, height, width, color and it can open or close.
 * in software development objects are created inside class.
