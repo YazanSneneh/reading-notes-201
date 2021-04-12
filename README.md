@@ -69,6 +69,8 @@
 | class04-read | [  Read: 04 - OOP](401/class-04.md)             |
 | class05-read | [ Read: 05 - Linked Lists ](401/class-05.md)             |
 | class06-read | [ Read: 06 - Inheritance and Interfaces ](401/class-06.md)             |
+| class08-read | [ Read: 08 - OO Design ](401/class-08.md)             |
+
 ## Code Other Reads - Topics in Software Development.
 | Class Name   | Read Topic                                              |
 | ------------ | ------------------------------------------------------- |
