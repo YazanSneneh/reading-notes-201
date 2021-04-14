@@ -71,6 +71,7 @@
 | class06-read | [ Read: 06 - Inheritance and Interfaces ](401/class-06.md)             |
 | class08-read | [ Read: 08 - OO Design ](401/class-08.md)             |
 | class09-read | [ Read: 09 - WRRC and Java ](401/class-09.md)             |
+| class10-read | [ Read: Stacks & Queues ](401/class-10.md)             |
 
 ## Code Other Reads - Topics in Software Development.
 | Class Name   | Read Topic                                              |
