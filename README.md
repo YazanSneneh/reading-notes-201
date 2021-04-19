@@ -73,7 +73,7 @@
 | class09-read | [ Read: 09 - WRRC and Java ](401/class-09.md)             |
 | class10-read | [ Read: Stacks & Queues ](401/class-10.md)             |
 | class11-read | [ Read: 11 - Spring ](401/class-11.md)             |
-| class12-read | [ Read: 12  ](401/class-12.md)             |
+| class12-read | [ Read: 12 - Spring RESTful Routing & Static Files  ](401/class-12.md)             |
 
 ## Code Other Reads - Topics in Software Development.
 | Class Name   | Read Topic                                              |

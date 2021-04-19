@@ -125,7 +125,7 @@ example :
    * in controller: `session.setAttribute("mySessionAttribute", "someValue");`
    * in thymeleaf to access it : `<p th:text="${session.mySessionAttribute}" th:unless="${session == null}">[...]</p>`
 4. **ServletContext attributes**
- * since i dont know what exactly is this yet: [resource](https://www.thymeleaf.org/doc/articles/springmvcaccessdata.html): 
+ * since i dont know what exactly is this yet: [resource](https://www.thymeleaf.org/doc/articles/springmvcaccessdata.html)
 * The ServletContext attributes are shared between requests and sessions. In order to access ServletContext attributes in Thymeleaf you can use the #servletContext. prefix: 
 * Example:
 ```
