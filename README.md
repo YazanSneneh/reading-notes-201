@@ -76,8 +76,9 @@
 | class12-read | [ Read: 12 - Spring RESTful Routing & Static Files  ](401/class-12.md)             |
 | class13-read | [ Read: 13 - Related Resources and Integration Testing  ](401/class-13.md)             |
 | class14-read | [ Read: 14 - Implementation: Trees ](401/class-14.md)             |
-| class14-read | [ Read: 16 - Spring Authentication ](401/class-16.md)             |
-
+| class16-read | [ Read: 16 - Spring Authentication ](401/class-16.md)             |
+| class17-read | [ Read: 17 - Spring Authorization ](401/class-17.md)             |
+| class18-read | [ Read: 18 - Web App Security ](401/class-18.md)             |
 ## Code Other Reads - Topics in Software Development.
 | Class Name   | Read Topic                                              |
 | ------------ | ------------------------------------------------------- |
