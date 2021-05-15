@@ -80,7 +80,11 @@
 | class17-read | [ Read: 17 - Spring Authorization ](401/class-17.md)             |
 | class18-read | [ Read: 18 - Web App Security ](401/class-18.md)             |
 | class19-read | [ Read: 19 - Spring and Sockets ](401/class-19.md)             |
+| class26-read | [ Read: 26 - Android Fundamentals ](401/class-26.md)             |
+
+
 ## Code Other Reads - Topics in Software Development.
 | Class Name   | Read Topic                                              |
 | ------------ | ------------------------------------------------------- |
 | resources | [ resources list](other/file-system.md)                    |
+ 
