@@ -81,7 +81,7 @@
 | class18-read | [ Read: 18 - Web App Security ](401/class-18.md)             |
 | class19-read | [ Read: 19 - Spring and Sockets ](401/class-19.md)             |
 | class26-read | [ Read: 26 - Android Fundamentals ](401/class-26.md)             |
-| class27-read | [ Read: 27 - Android Fundamentals ](401/class-26.md)             |
+| class27-read | [ Read: 27 - Intents, Activities, and SharedPreferences ](401/class-27.md)             |
 
 ## Code Other Reads - Topics in Software Development.
 | Class Name   | Read Topic                                              |
