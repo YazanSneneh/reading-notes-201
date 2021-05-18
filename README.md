@@ -10,6 +10,7 @@
    * add it to the table of content.
 
 ## Code 102 - Intro to Software Development.
+
   | Class Name   | Read Topic                                                           |
   | ------------ | -------------------------------------------------------------------- |
   | class01-read | [Markdown](reading-notes/lab1-read.md)                               |
@@ -23,6 +24,7 @@
   | class09-read | [Operators & Loops](reading-notes/lab8-read.md)                      |
 
 ## Code 201 - Foundations of Software Development.
+
   | Class Name   | Read Topic                                                                 |
   | ------------ | -------------------------------------------------------------------------- |
   | class01-read | [Prework - Read: 01](prework.md)                                           |
@@ -60,7 +62,6 @@
   | class015-read | [Read: 15 - Diversity & Inclusion in the Tech Industry](301/class-15.md)                            |
  
 ## Code 401 - Advanced Software Development.
-
 | Class Name   | Read Topic                                                            |
 | ------------ | --------------------------------------------------------------------- |
 | class01-read | [ Read: 01 - Java Basics to control flow statements](401/class-01.md) |
@@ -83,6 +84,8 @@
 | class26-read | [ Read: 26 - Android Fundamentals ](401/class-26.md)             |
 | class27-read | [ Read: 27 - Intents, Activities, and SharedPreferences ](401/class-28)             |
 | class28-read | [ Read: 28 - RecyclerView ](401/class-28.md)             |
+| class29-read | [ Read: 29 - Room ](401/class-29.md)             |
+
 ## Code Other Reads - Topics in Software Development.
 | Class Name   | Read Topic                                              |
 | ------------ | ------------------------------------------------------- |
