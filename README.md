@@ -85,7 +85,7 @@
 | class27-read | [ Read: 27 - Intents, Activities, and SharedPreferences ](401/class-28)             |
 | class28-read | [ Read: 28 - RecyclerView ](401/class-28.md)             |
 | class29-read | [ Read: 29 - Room ](401/class-29.md)             |
-
+| class30-read | [ Read: 30 - Read: Hash Tables ](401/class-30.md)             |
 ## Code Other Reads - Topics in Software Development.
 | Class Name   | Read Topic                                              |
 | ------------ | ------------------------------------------------------- |
