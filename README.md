@@ -87,6 +87,7 @@
 | class29-read | [ Read: 29 - Room ](401/class-29.md)             |
 | class30-read | [ Read: 30 -  Hash Tables ](401/class-30.md)             |
 | class31-read | [ Read: 31 -  Espresso ](401/class-31.md)             |
+| class32-read | [ Read: 32 - Serverless and Amplify ](/401/class-32.md)             |
 
 ## Code Other Reads - Topics in Software Development.
 | Class Name   | Read Topic                                              |
