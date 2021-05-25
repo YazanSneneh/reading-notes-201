@@ -19,7 +19,7 @@ some of the currently available cloud services: **AWS Lambda and Google Cloud Fu
 
 
 ## AWS Amplify
--  tools and services that can be used together or on their own, to help front-end web and mobile developers build scalable full stack applications.
+- tools and services that can be used together or on their own, to help front-end web and mobile developers build scalable full stack applications.
 - I can configure app backend and connect app in minutes by AWS With Amplify.
 - deploy static web apps in a few clicks, and easily manage app content outside the AWS console.
   - frontend frameworks that Amplify support:

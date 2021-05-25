@@ -88,6 +88,8 @@
 | class30-read | [ Read: 30 -  Hash Tables ](401/class-30.md)             |
 | class31-read | [ Read: 31 -  Espresso ](401/class-31.md)             |
 | class32-read | [ Read: 32 - Serverless and Amplify ](/401/class-32.md)             |
+| class33-read | [ Read: 33 - GraphQL @connection  ](/401/class-33.md)             |
+| class34-read | [ Read: 34 - Graph](/401/class-34.md)             |
 
 ## Code Other Reads - Topics in Software Development.
 | Class Name   | Read Topic                                              |
