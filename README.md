@@ -92,6 +92,7 @@
 | class34-read | [ Read: 34 - Graph](/401/class-34.md)             |
 | class36-read | [ Read: 36 - Cognito](/401/class-36.md)             |
 | class37-read | [ Read: 37 - S3](/401/class-37.md)             |
+| class38-read | [ Read: 38 - Notifications](/401/class-38.md)             |
 
 ## Code Other Reads - Topics in Software Development.
 | Class Name   | Read Topic                                              |
