@@ -44,6 +44,7 @@
   | class15-read | [Read: 14b - What Google Learned About Teams](read-14b.md).                |
 
 ## Code 301 - Intermediate Software Development.
+
   | Class Name    | Read Topic                |
   | ------------- | ----------------------------------------------------|
   | class01-read | [read: 01 - SMACSS and Responsive Web Design](301/class-01.md)  |
@@ -62,42 +63,44 @@
   | class015-read | [Read: 15 - Diversity & Inclusion in the Tech Industry](301/class-15.md)                            |
  
 ## Code 401 - Advanced Software Development.
+
 | Class Name   | Read Topic                                                            |
 | ------------ | --------------------------------------------------------------------- |
 | class01-read | [ Read: 01 - Java Basics to control flow statements](401/class-01.md) |
 | class02-read | [ Read: 02 - Arrays, Loops, Imports](401/class-02.md)                 |
 | class03-read | [ Read: 03 - Maps, primitives, File I/O](401/class-03.md)             |
-| class04-read | [  Read: 04 - OOP](401/class-04.md)             |
-| class05-read | [ Read: 05 - Linked Lists ](401/class-05.md)             |
-| class06-read | [ Read: 06 - Inheritance and Interfaces ](401/class-06.md)             |
-| class08-read | [ Read: 08 - OO Design ](401/class-08.md)             |
-| class09-read | [ Read: 09 - WRRC and Java ](401/class-09.md)             |
-| class10-read | [ Read: Stacks & Queues ](401/class-10.md)             |
-| class11-read | [ Read: 11 - Spring ](401/class-11.md)             |
-| class12-read | [ Read: 12 - Spring RESTful Routing & Static Files  ](401/class-12.md)             |
-| class13-read | [ Read: 13 - Related Resources and Integration Testing  ](401/class-13.md)             |
-| class14-read | [ Read: 14 - Implementation: Trees ](401/class-14.md)             |
-| class16-read | [ Read: 16 - Spring Authentication ](401/class-16.md)             |
-| class17-read | [ Read: 17 - Spring Authorization ](401/class-17.md)             |
-| class18-read | [ Read: 18 - Web App Security ](401/class-18.md)             |
-| class19-read | [ Read: 19 - Spring and Sockets ](401/class-19.md)             |
-| class26-read | [ Read: 26 - Android Fundamentals ](401/class-26.md)             |
-| class27-read | [ Read: 27 - Intents, Activities, and SharedPreferences ](401/class-28)             |
-| class28-read | [ Read: 28 - RecyclerView ](401/class-28.md)             |
-| class29-read | [ Read: 29 - Room ](401/class-29.md)             |
-| class30-read | [ Read: 30 -  Hash Tables ](401/class-30.md)             |
-| class31-read | [ Read: 31 -  Espresso ](401/class-31.md)             |
-| class32-read | [ Read: 32 - Serverless and Amplify ](/401/class-32.md)             |
-| class33-read | [ Read: 33 - GraphQL @connection  ](/401/class-33.md)             |
-| class34-read | [ Read: 34 - Graph](/401/class-34.md)             |
-| class36-read | [ Read: 36 - Cognito](/401/class-36.md)             |
-| class37-read | [ Read: 37 - S3](/401/class-37.md)             |
-| class38-read | [ Read: 38 - Notifications](/401/class-38.md)             |
-| class41-read | [ Read: 41 - Intent Filters ](/401/class-41.md)             |
-| class42-read | [ Read: 42 - Location ](/401/class-42.md)             |
+| class04-read | [  Read: 04 - OOP](401/class-04.md)                                   |
+| class05-read | [ Read: 05 - Linked Lists ](401/class-05.md)                          |
+| class06-read | [ Read: 06 - Inheritance and Interfaces ](401/class-06.md)            |
+| class08-read | [ Read: 08 - OO Design ](401/class-08.md)                             |
+| class09-read | [ Read: 09 - WRRC and Java ](401/class-09.md)                         |
+| class10-read | [ Read: Stacks & Queues ](401/class-10.md)                            |
+| class11-read | [ Read: 11 - Spring ](401/class-11.md)                                |
+| class12-read | [ Read: 12 - Spring RESTful Routing & Static Files  ](401/class-12.md)|
+| class13-read | [ Read: 13 - Related Resources and Integration Testing](401/class-13.md)|
+| class14-read | [ Read: 14 - Implementation: Trees ](401/class-14.md)                 |
+| class16-read | [ Read: 16 - Spring Authentication ](401/class-16.md)                 |
+| class17-read | [ Read: 17 - Spring Authorization ](401/class-17.md)                  |
+| class18-read | [ Read: 18 - Web App Security ](401/class-18.md)                      |
+| class19-read | [ Read: 19 - Spring and Sockets ](401/class-19.md)                    |
+| class26-read | [ Read: 26 - Android Fundamentals ](401/class-26.md)                  |
+| class27-read | [ Read: 27 - Intents, Activities, and SharedPreferences](401/class-28)|
+| class28-read | [ Read: 28 - RecyclerView ](401/class-28.md)                          |
+| class29-read | [ Read: 29 - Room ](401/class-29.md)                                  |
+| class30-read | [ Read: 30 -  Hash Tables ](401/class-30.md)                          |
+| class31-read | [ Read: 31 -  Espresso ](401/class-31.md)                             |
+| class32-read | [ Read: 32 - Serverless and Amplify ](/401/class-32.md)               |
+| class33-read | [ Read: 33 - GraphQL @connection  ](/401/class-33.md)                 |
+| class34-read | [ Read: 34 - Graph](/401/class-34.md)                                 |
+| class36-read | [ Read: 36 - Cognito](/401/class-36.md)                               |
+| class37-read | [ Read: 37 - S3](/401/class-37.md)                                    |
+| class38-read | [ Read: 38 - Notifications](/401/class-38.md)                         |
+| class41-read | [ Read: 41 - Intent Filters ](/401/class-41.md)                       |
+| class42-read | [ Read: 42 - Location ](/401/class-42.md)                             |
 
 ## Code Other Reads - Topics in Software Development.
 | Class Name   | Read Topic                                              |
 | ------------ | ------------------------------------------------------- |
+| class42-read | [ Read: 42 - Ethics in Tech ](/401/class-42.md)         |
 | resources | [ resources list](other/file-system.md)                    |
  
