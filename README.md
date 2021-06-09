@@ -101,6 +101,6 @@
 ## Code Other Reads - Topics in Software Development.
 | Class Name   | Read Topic                                              |
 | ------------ | ------------------------------------------------------- |
-| class42-read | [ Read: 42 - Ethics in Tech ](/401/class-42.md)         |
+| class42-read | [ Read: 42 - Ethics in Tech ](/401/class-43.md)         |
 | resources | [ resources list](other/file-system.md)                    |
  
