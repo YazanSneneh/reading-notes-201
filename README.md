@@ -9,6 +9,14 @@
    * summarize it.
    * add it to the table of content.
 
+
+## Flutter Reads.z
+
+  | Class Name    | Read Topic                                          |
+  | ------------- | ----------------------------------------------------|
+  | module 1 | [Flutter and cross platform development](301/class-01.md)                |
+
+
 ## Code 102 - Intro to Software Development.
 
   | Class Name   | Read Topic                                                           |
@@ -97,6 +105,13 @@
 | class38-read | [ Read: 38 - Notifications](/401/class-38.md)                         |
 | class41-read | [ Read: 41 - Intent Filters ](/401/class-41.md)                       |
 | class42-read | [ Read: 42 - Location ](/401/class-42.md)                             |
+
+## Android reads.
+
+  | Class Name    | Read Topic                                          |
+  | ------------- | ----------------------------------------------------|
+  | Rest Client | [Rest client android](301/class-01.md)                |
+
 
 ## Code Other Reads - Topics in Software Development.
 | Class Name   | Read Topic                                              |
