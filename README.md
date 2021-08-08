@@ -10,7 +10,14 @@
    * add it to the table of content.
 
 
-## Flutter Reads.z
+## Python Reads
+
+  | Class Name    | Read Topic                                          |
+  | ------------- | ----------------------------------------------------|
+  | module 1 | [python programming](python/start_python.md)                |   
+
+
+## Flutter Reads
 
   | Class Name    | Read Topic                                          |
   | ------------- | ----------------------------------------------------|
