@@ -14,7 +14,8 @@
 
   | Class Name    | Read Topic                                          |
   | ------------- | ----------------------------------------------------|
-  | module 1 | [python programming](python/start_python.md)                |   
+  | module 1 | [python programming](python/start_python.md)                |
+  | module 12| [Formatting Numbers for Printing in Python](python/number_formatting.md)               |
 
 
 ## Flutter Reads
