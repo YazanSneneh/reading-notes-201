@@ -12,17 +12,18 @@
 
 ## Python Reads
 
-  | Class Name    | Read Topic                                          |
-  | ------------- | ----------------------------------------------------|
+  | Class Name| Read Topic                                          |
+  | -------- | ---------------------------------------------------- |
   | module 1 | [python programming](python/start_python.md)                |
   | module 12| [Formatting Numbers for Printing in Python](python/number_formatting.md)               |
 
 
 ## Flutter Reads
 
-  | Class Name    | Read Topic                                          |
-  | ------------- | ----------------------------------------------------|
-  | module 1 | [Flutter and cross platform development](301/class-01.md)                |
+  | Class Name | Read Topic                                          |
+  | -------- | ----------------------------------------------------|
+  | module 1 | [Flutter and cross platform development](Flutter/module-1.md)                |
+  | Module 3 | [Section 3: I Am Rich - How to Create Flutter Apps from Scratch]()
 
 
 ## Code 102 - Intro to Software Development.

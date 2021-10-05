@@ -9,7 +9,7 @@
     - Flutter Application Anatomy.
 
 - Cross platform allow me to build android & ios applications with the same codebase.
-- Flutter is a technology created by google so I can use it to build android, ios and web applications using dart.
+- Flutter is a technology created by google so I can use it to build android, ios, web applications and  using dart.
 
 ### What Is Flutter?
 -  If I create a native mobile application with android and ios.
