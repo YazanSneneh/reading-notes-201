@@ -1,4 +1,4 @@
-# Explore Flutter
+# Section 6: MiCard - How to Build Beautiful UIs with Flutter Widgets
 - I can explore and learn flutter widgets in many ways.
   - flutter indexing, a page show flutter widgets by alhpabatic index.
   - flutter catalog, a page show flutter by the nature of the widget e.g. a list of widgets responsible for dealing with animations or widget responsible for dealing with aynsc operations or capertino widgets for iso applications style.

@@ -22,9 +22,10 @@
 
   | Class Name | Read Topic                                          |
   | -------- | ----------------------------------------------------|
-  | module 1 | [Flutter and cross platform development](Flutter/module-1.md)                |
-  | Module 3 | [Section 3: I Am Rich - How to Create Flutter Apps from Scratch]()
-
+  | Section 1 | [Flutter and cross platform development](Flutter/module-1.md)                |
+  | Section 3 | [ I Am Rich - How to Create Flutter Apps from Scratch]()       |
+  | Section 6| [MiCard - How to Build Beautiful UIs with Flutter Widgets](/Flutter/module-6.md)|
+  | Section 7| [Dicee - Building Apps with State](Flutter/module-7.md)|
 
 ## Code 102 - Intro to Software Development.
 
