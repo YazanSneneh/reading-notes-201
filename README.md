@@ -27,7 +27,8 @@
   | Section 6| [MiCard - How to Build Beautiful UIs with Flutter Widgets](/Flutter/module-6.md)|
   | Section 7| [Dicee - Building Apps with State](Flutter/module-7.md)|
   | Section 9| [Xylophone - Using Flutter and Dart Packages to Speed Up Development](Flutter/module-9.md)|
-  | Section 10|[Section 10: Quizzler - Modularising & Organising Flutter Code](Flutter/module-10.md)|
+  | Section 10|[Quizzler - Modularising & Organising Flutter Code](Flutter/module-10.md)|
+  | Section 12|[BMI Calculator - Building Flutter UIs for Intermediates](Flutter/module-12.md)|
 
   
 

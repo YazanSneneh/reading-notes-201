@@ -92,7 +92,7 @@ assert(nobleGases.containsKey(54));
 // Remove a key and its value.
 nobleGases.remove(54);
 ```
-- To check whether a map contains a key; ` containsKey()`
+- To check whether a map contains a key; `containsKey()`
 
 - Use isEmpty or isNotEmpty to check whether a list, set, or map has items:
 - To apply a function to each item in a list, set, or map, you can use `forEach()`:
