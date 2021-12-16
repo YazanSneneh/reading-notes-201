@@ -9,6 +9,11 @@
    * summarize it.
    * add it to the table of content.
 
+## Django Reads
+
+  | Class Name| Read Topic                                          |
+  | -------- | ---------------------------------------------------- |
+  | class 1 | [Django at a glance](python/start_python.md)          |
 
 ## Python Reads
 
