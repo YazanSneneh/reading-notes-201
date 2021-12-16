@@ -70,6 +70,7 @@ $ python manage.py migrate
 - The only step required is to register your model in the admin site.
 - example: 
 ```python
+website/news/model.py
 from django.db import models
 
 class Article(models.Model):
@@ -77,5 +78,25 @@ class Article(models.Model):
     headline = models.CharField(max_length=200)
     content = models.TextField()
     reporter = models.ForeignKey(Reporter, on_delete=models.CASCADE)
-```
 
+website/news/admin.py
+from django.contrib import admin
+
+from . import models
+
+admin.site.register(models.Article)    # registering model to admin website
+
+```
+- The philosophy here is that the website is edited by a staff, or a client, or maybe just developer – and developer don’t want to have to deal with creating backend interfaces only to manage content.
+- One typical **workflow** in creating Django apps is to create models and get the admin sites up and running as fast as possible, so your staff (or clients) can start populating data. Then, develop the way data is presented to the public.
+
+## Design URLs
+- A clean, elegant URL scheme is an important detail in a high-quality web application.
+- Django encourages beautiful URL design and doesn’t put any cruft in URLs, like .php or .asp.
+
+#### how to create urls
+- To design URLs for an app, create a Python module called a URLconf.
+- A table of contents for the app, it contains a **mapping** between **URL patterns** and Python **callback functions**.
+- URLconfs also serve to decouple URLs from Python code.
+- Example of **URLconf** for the Reporter/Article example above:
+- 
