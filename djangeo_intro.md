@@ -1,5 +1,5 @@
 # Django at a glance
-- this is django at a glance, for a [tutorial visit thia website](https://docs.djangoproject.com/en/4.0/intro/tutorial01/)
+- this is django at a glance, for a [tutorial visit thia website](https://docs.djangoproject.com/en/4.0/intro/tutorial01/) and for [detailed documentation tutorial visit this site](https://docs.djangoproject.com/en/4.0/topics/)
 - it was designed to make common web development tasks fast and easy.
 
 
