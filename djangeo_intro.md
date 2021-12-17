@@ -5,7 +5,7 @@
 
 ### Design a model
 - it comes with an object-relational mapper in which I describe database layout in Python code.
-- The (data-model)[https://docs.djangoproject.com/en/4.0/topics/db/models/] syntax offers many rich ways of representing models.
+- The [data-model](https://docs.djangoproject.com/en/4.0/topics/db/models/) syntax offers many rich ways of representing models.
 - **Note: when i create a model i dont have to provide an id because it will be handled**
 - example:
 ```python
