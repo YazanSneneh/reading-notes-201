@@ -1,7 +1,6 @@
 # Beginner Python Course
-- python is simple language, and it can do anything almost any other programming language can do.
 - **to execute python program from terminal**: type following
-  - **python3.7** name_of_file.py.
+  - **python3** name_of_file.py.
   - basically anything ends with .py is a python file.
 
 
