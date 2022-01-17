@@ -18,6 +18,7 @@
 
 ## Variables
 -Variable names can contain underscores (_), numbers, and letters. They cannot start with a number.
+- variables are created once we assign values to it.
 
 #### Output and Input
 - to print something to console i use **print(anything)**.
@@ -33,7 +34,7 @@
 - *#* is used to create comment
 
 ## Lists in python.
-- we use them to store many things and we want to be able to easily use that group of things.
+- we use them to store multi items and we want to be able to easily use that group of things.
 - penefits of lists:
   - it's hard to access and manipulate values.
 - the use of square brackets denotes a list, and inside it we can place many values. 
