@@ -14,6 +14,7 @@
     | roar         | matches any string that has the text roar in it   |
 
     * Quantifiers — * + ? and {}:
+
     | Quantifiers | explination                                             |
     | ----------- | ------------------------------------------------------- |
     | abc*        | matches a string that has ab followed by zero or more c |
@@ -23,7 +24,8 @@
     | abc{2,}     | matches a string that has ab followed by 2 or more c    |
     | abc{2,5}    | matches a string that has ab followed by 2 up to 5 c    |
         
-    * Character classes — \d \w \s and .
+    * Character classes — \d \w \s and.
+
     | Character classe | explination                                                       |
     | ---------------- | ----------------------------------------------------------------- |
     | \d               | matches a single character that is a digit                        |
