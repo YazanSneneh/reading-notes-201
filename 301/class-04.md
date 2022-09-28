@@ -4,14 +4,14 @@
 
  * **NOTE : One of the most interesting features is that once you’ve learned the syntax, you can actually use this tool in (almost) all programming languages **.
  * **Basic topics:**
-    * Anchors — ^ and $ : 
+    * Anchors — ^ and $ :
+ 
     | Anchors      | explination                                       |
     | ------------ | ------------------------------------------------- |
     | ^The         | matches any string that starts with The           |
     | end$         | matches a string that ends with end               |
     | ^The end$    | exact string match (starts and ends with The end) |
     | roar         | matches any string that has the text roar in it   |
-    | class04-read |                                                   |
 
     * Quantifiers — * + ? and {}:
     | Quantifiers | explination                                             |
